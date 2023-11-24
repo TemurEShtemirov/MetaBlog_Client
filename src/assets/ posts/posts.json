@@ -1,0 +1,229 @@
+[
+    {
+      "id": 1,
+      "image": "https://example.com/image1.jpg",
+      "hashtags": ["#travel ", "#adventure "],
+      "title": "Post 1",
+      "author": {
+        "name": "John",
+        "lastName": "Doe",
+        "image": "https://example.com/author1.jpg"
+      },
+      "date": "2023-11-22",
+      "description": "Long description for post 1..."
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/image2.jpg",
+      "hashtags": ["#food ", "#recipes "],
+      "title": "Post 2",
+      "author": {
+        "name": "Jane",
+        "lastName": "Smith",
+        "image": "https://example.com/author2.jpg"
+      },
+      "date": "2023-11-20",
+      "description": "Long description for post 2..."
+    },
+  {
+    "id": 3,
+    "image": "https://example.com/image1.jpg",
+    "hashtags": ["#travel ", "#adventure "],
+    "title": "Post 1",
+    "author": {
+      "name": "John",
+      "lastName": "Doe",
+      "image": "https://example.com/author1.jpg"
+    },
+    "date": "2023-11-22",
+    "description": "Long description for post 1..."
+  },
+  {
+    "id": 4,
+    "image": "https://example.com/image2.jpg",
+    "hashtags": ["#food ", "#recipes "],
+    "title": "Post 2",
+    "author": {
+      "name": "Jane",
+      "lastName": "Smith",
+      "image": "https://example.com/author2.jpg"
+    },
+    "date": "2023-11-20",
+    "description": "Long description for post 2..."
+  }, {
+  "id": 5,
+  "image": "https://example.com/image1.jpg",
+  "hashtags": ["#travel ", "#adventure "],
+  "title": "Post 1",
+  "author": {
+    "name": "John",
+    "lastName": "Doe",
+    "image": "https://example.com/author1.jpg"
+  },
+  "date": "2023-11-22",
+  "description": "Long description for post 1..."
+},
+  {
+    "id": 6,
+    "image": "https://example.com/image2.jpg",
+    "hashtags": ["#food ", "#recipes "],
+    "title": "Post 2",
+    "author": {
+      "name": "Jane",
+      "lastName": "Smith",
+      "image": "https://example.com/author2.jpg"
+    },
+    "date": "2023-11-20",
+    "description": "Long description for post 2..."
+  }, {
+  "id": 7,
+  "image": "https://example.com/image1.jpg",
+  "hashtags": ["#travel ", "#adventure "],
+  "title": "Post 1",
+  "author": {
+    "name": "John",
+    "lastName": "Doe",
+    "image": "https://example.com/author1.jpg"
+  },
+  "date": "2023-11-22",
+  "description": "Long description for post 1..."
+},
+  {
+    "id": 8,
+    "image": "https://example.com/image2.jpg",
+    "hashtags": ["#food ", "#recipes "],
+    "title": "Post 2",
+    "author": {
+      "name": "Jane",
+      "lastName": "Smith",
+      "image": "https://example.com/author2.jpg"
+    },
+    "date": "2023-11-20",
+    "description": "Long description for post 2..."
+  }, {
+  "id": 9,
+  "image": "https://example.com/image1.jpg",
+  "hashtags": ["#travel ", "#adventure "],
+  "title": "Post 1",
+  "author": {
+    "name": "John",
+    "lastName": "Doe",
+    "image": "https://example.com/author1.jpg"
+  },
+  "date": "2023-11-22",
+  "description": "Long description for post 1..."
+},
+  {
+    "id": 10,
+    "image": "https://example.com/image2.jpg",
+    "hashtags": ["#food ", "#recipes "],
+    "title": "Post 2",
+    "author": {
+      "name": "Jane",
+      "lastName": "Smith",
+      "image": "https://example.com/author2.jpg"
+    },
+    "date": "2023-11-20",
+    "description": "Long description for post 2..."
+  }, {
+  "id": 11,
+  "image": "https://example.com/image1.jpg",
+  "hashtags": ["#travel ", "#adventure "],
+  "title": "Post 1",
+  "author": {
+    "name": "John",
+    "lastName": "Doe",
+    "image": "https://example.com/author1.jpg"
+  },
+  "date": "2023-11-22",
+  "description": "Long description for post 1..."
+},
+  {
+    "id": 12,
+    "image": "https://example.com/image2.jpg",
+    "hashtags": ["#food ", "#recipes "],
+    "title": "Post 2",
+    "author": {
+      "name": "Jane",
+      "lastName": "Smith",
+      "image": "https://example.com/author2.jpg"
+    },
+    "date": "2023-11-20",
+    "description": "Long description for post 2..."
+  }, {
+  "id": 13,
+  "image": "https://example.com/image1.jpg",
+  "hashtags": ["#travel ", "#adventure "],
+  "title": "Post 1",
+  "author": {
+    "name": "John",
+    "lastName": "Doe",
+    "image": "https://example.com/author1.jpg"
+  },
+  "date": "2023-11-22",
+  "description": "Long description for post 1..."
+},
+  {
+    "id": 14,
+    "image": "https://example.com/image2.jpg",
+    "hashtags": ["#food ", "#recipes "],
+    "title": "Post 2",
+    "author": {
+      "name": "Jane",
+      "lastName": "Smith",
+      "image": "https://example.com/author2.jpg"
+    },
+    "date": "2023-11-20",
+    "description": "Long description for post 2..."
+  }, {
+  "id": 15,
+  "image": "https://example.com/image1.jpg",
+  "hashtags": ["#travel ", "#adventure "],
+  "title": "Post 1",
+  "author": {
+    "name": "John",
+    "lastName": "Doe",
+    "image": "https://example.com/author1.jpg"
+  },
+  "date": "2023-11-22",
+  "description": "Long description for post 1..."
+},
+  {
+    "id": 16,
+    "image": "https://example.com/image2.jpg",
+    "hashtags": ["#food ", "#recipes "],
+    "title": "Post 2",
+    "author": {
+      "name": "Jane",
+      "lastName": "Smith",
+      "image": "https://example.com/author2.jpg"
+    },
+    "date": "2023-11-20",
+    "description": "Long description for post 2..."
+  }, {
+  "id": 17,
+  "image": "https://example.com/image1.jpg",
+  "hashtags": ["#travel ", "#adventure "],
+  "title": "Post 1",
+  "author": {
+    "name": "John",
+    "lastName": "Doe",
+    "image": "https://example.com/author1.jpg"
+  },
+  "date": "2023-11-22",
+  "description": "Long description for post 1..."
+},
+  {
+    "id": 18,
+    "image": "https://example.com/image2.jpg",
+    "hashtags": ["#food ", "#recipes "],
+    "title": "Post 2",
+    "author": {
+      "name": "Jane",
+      "lastName": "Smith",
+      "image": "https://example.com/author2.jpg"
+    },
+    "date": "2023-11-20",
+    "description": "Long description for post 2..."
+  }
+  ]
